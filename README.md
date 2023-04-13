@@ -1,2 +1,2 @@
-# Naver 영화 리뷰 분석 (Kor)
+# Practice and Project 
 TextDataAnalysis, AI/Bigdata Major, Kookmin Univ.  
